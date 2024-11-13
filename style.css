@@ -88,8 +88,10 @@ input:hover{
     border: none;
     border-radius: 5px;
 }
-article:hover{
+article{
     transition: 1s;
+}
+article:hover{
     padding: 10px;
     background: rgba(167, 166, 166, 0.788);
     border-radius: 25px;
